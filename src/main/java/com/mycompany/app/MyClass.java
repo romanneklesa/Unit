@@ -1,6 +1,7 @@
 package com.mycompany.app;
 
 import java.util.Arrays;
+//mockito
 
 public class MyClass <E> {
 
